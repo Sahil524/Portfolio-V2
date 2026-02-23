@@ -17,6 +17,7 @@
     "three.js": "^0.77.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage":"https://sahil524.github.io/Portfolio-V.2",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
